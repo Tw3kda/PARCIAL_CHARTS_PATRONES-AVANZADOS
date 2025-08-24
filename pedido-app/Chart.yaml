@@ -2,9 +2,12 @@ apiVersion: v2
 name: pedido-app
 description: Chart para desplegar la app de pedidos (frontend + backend)
 type: application
+<<<<<<< HEAD
 version: 0.3.3
+=======
+version: 0.3.4
+>>>>>>> 3d3b7ef818ef72d27795349aae918c9acd5ed9f0
 appVersion: "2.0.0"
-
 
 
 
