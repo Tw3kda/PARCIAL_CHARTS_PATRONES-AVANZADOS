@@ -24,3 +24,10 @@ resources:
     limits:
       cpu: "100m"
       memory: "128Mi"
+
+backend:
+  database:
+    name: patrones
+    port: 5432
+    host: pedido-app-prod-postgresql
+
